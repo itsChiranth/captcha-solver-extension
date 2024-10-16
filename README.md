@@ -12,7 +12,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/captcha-solver.git
+git clone https://github.com/itsChiranth/captcha-solver.git
 Navigate to the project directory:
 bash
 Copy code
